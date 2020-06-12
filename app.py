@@ -26,6 +26,7 @@ toolbar = DebugToolbarExtension(app)
 connect_db(app)
 
 
+
 ##############################################################################
 # User signup/login/logout
 
